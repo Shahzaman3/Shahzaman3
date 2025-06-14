@@ -9,7 +9,7 @@
 ### :wave: About Me
 - 🎓 I'm currently pursuing **BTech in Computer Science and Engineering** at **Netaji Subhash University**.
 - 🌱 I’m currently learning **Three.js** for 3D web applications.
-- 👨‍💻 Tech Stack: **HTML**, **CSS**, **JavaScript**, **RReactJS**, **TailwindCSS**, **Python**, **Three.js**.
+- 👨‍💻 Tech Stack: **HTML**, **CSS**, **JavaScript**, **ReactJS**, **TailwindCSS**, **Python**, **Three.js**.
 - 🚀 I’m passionate about building beautiful and performant web applications.
 - ✨ Always keen to learn new technologies and grow as a developer!
 
