@@ -19,13 +19,6 @@
 
 ---
 
-## 🔄 Currently Working On
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahzaman3&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 <div align="center">
   
