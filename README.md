@@ -1,16 +1,28 @@
-<!-- Banner -->
+<!-- 🔥 3D Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Shahzaman+Faisal+👋;BTech+CSE+%7C+2nd+Year+Student;Frontend+Web+Developer;ReactJS+%7C+NextJS+%7C+Three.js;GSAP+Animations+%7C+AI+Integration;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img src="https://i.ibb.co/1vZzKjW/3d-dev-banner.gif" alt="3D Developer Banner" width="100%" />
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Md+Shahzaman+Faisal+👋;BTech+CSE+2nd+Year;Frontend+Web+Developer;ReactJS+%7C+NextJS+%7C+Three.js;GSAP+Animations+%7C+AI+Integration;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **BTech in Computer Science & Engineering (2nd Year)**
+- 🎓 **BTech in Computer Science & Engineering (2nd Year)**  
 - 💻 **Frontend Web Dev** → HTML, CSS, JavaScript, ReactJS, GSAP, TailwindCSS, Three.js, Next.js  
 - 🖥 **Other Skills** → Java, Python  
 - 🌱 **Currently Learning** → AI Integration, Backend Development  
 - ❤️ **Passion** → Building modern, interactive, and scalable web applications  
+
+---
+
+## 🔄 Currently Working On
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahzaman3&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -34,12 +46,19 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzaman3&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahzaman3&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaman3&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahzaman3&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -65,5 +84,5 @@
 
 ## 📈 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Shahzaman3/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Shahzaman3&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
