@@ -1,7 +1,3 @@
-<!-- 🔥 3D Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/1vZzKjW/3d-dev-banner.gif" alt="3D Developer Banner" width="100%" />
-</p>
 
 <!-- Typing Intro -->
 <p align="center">
