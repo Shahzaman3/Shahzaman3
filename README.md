@@ -33,17 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzaman3&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahzaman3&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaman3&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shahzaman3&theme=tokyonight&no-frame=true&row=1&column=6" />
