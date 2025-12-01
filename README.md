@@ -1,66 +1,47 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Md+Shahzaman+Faisal+👋;Building+the+Future+of+Web+Development+🚀;ReactJS+%7C+NextJS+%7C+Three.js+%7C+AI;Turning+Ideas+into+Digital+Reality+✨" alt="Typing SVG" />
+</div>
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Md+Shahzaman+Faisal+👋;BTech+CSE+2nd+Year;Frontend+Web+Developer;ReactJS+%7C+NextJS+%7C+Three.js;GSAP+Animations+%7C+AI+Integration;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 **BTech in Computer Science & Engineering (2nd Year)**  
-- 💻 **Frontend Web Dev** → HTML, CSS, JavaScript, ReactJS, GSAP, TailwindCSS, Three.js, Next.js  
-- 🖥 **Other Skills** → Java, Python  
-- 🌱 **Currently Learning** → AI Integration, Backend Development  
-- ❤️ **Passion** → Building modern, interactive, and scalable web applications  
-
----
-
-## 🛠️ Tech Stack
 <div align="center">
   
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  [![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahzaman3)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaman-faisal-b937b2287/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 </div>
 
----
+<br />
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahzaman3&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahzaman3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaman3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" height="180" alt="languages graph"  />
+</div>
 
----
+<br />
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaman3&theme=react-dark&hide_border=true" />
-</p>
+### ⚡ Tech Stack
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,mongodb,python,java,git,github,vscode,figma&perline=8&theme=dark" />
+</div>
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/Shahzaman3"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shahzaman-faisal-b937b2287/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<br />
 
----
+### 🐍 Contribution Graph
 
-## ✨ Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<div align="center">
+  <img src="https://github.com/Shahzaman3/Shahzaman3/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
----
+<br />
 
-## 📈 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahzaman3&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="streak stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>Let's build something amazing together.</i>
+</div>
