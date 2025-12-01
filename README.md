@@ -31,13 +31,13 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/Shahzaman3/Shahzaman3/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Shahzaman3/Shahzaman3/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="streak stats" />
 </div>
 
 <br />
