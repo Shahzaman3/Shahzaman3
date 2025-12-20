@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Md+Shahzaman+Faisal+👋;Building+the+Future+of+Web+Development+🚀;ReactJS+%7C+NextJS+%7C+Three.js+%7C+AI;Turning+Ideas+into+Digital+Reality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Md+Shahzaman+Faisal+👋;Building+the+Future+of+Web+Development+🚀;ReactJS+%7C+NextJS+%7C+Three.js+%7C+AI;Turning+Ideas+into+Digital+Reality+✨" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shahzaman3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="shahzaman3 trophy" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
   
@@ -14,34 +22,33 @@
 <br />
 
 <div align="center">
-  ![Stats Graph](https://github-readme-stats.vercel.app/api?username=Shahzaman3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7)
-  ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaman3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7)
-</div>
-
-<br />
-
-### ⚡ Tech Stack
-
-<div align="center">
+  <h3>⚡ Tech Stack & Tools</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,mongodb,python,java,git,github,vscode,figma&perline=8&theme=dark" />
 </div>
 
 <br />
 
-### 🐍 Contribution Graph
-
 <div align="center">
-  ![Snake Animation](https://raw.githubusercontent.com/Shahzaman3/Shahzaman3/output/github-contribution-grid-snake.svg)
+  <h3>📊 GitHub Statistics</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Shahzaman3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" alt="Shahzaman3's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaman3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  ![Streak Stats](https://streak-stats.demolab.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7)
-</div>
-
-<br />
-
-<div align="center">
-  <i>Let's build something amazing together.</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Shahzaman3&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
 </div>
