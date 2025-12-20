@@ -39,7 +39,7 @@
     </tr>
   </table>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&v=1" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Stats" />
 </div>
 
 
