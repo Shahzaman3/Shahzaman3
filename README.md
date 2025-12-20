@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Md+Shahzaman+Faisal+👋;Building+the+Future+of+Web+Development+🚀;ReactJS+%7C+NextJS+%7C+Three.js+%7C+AI;Turning+Ideas+into+Digital+Reality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Md+Shahzaman+Faisal+👋;Building+the+Future+of+Web+Development+🚀;ReactJS+%7C+NextJS+%7C+Three.js+%7C+AI;Turning+Ideas+into+Digital+Reality+✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shahzaman3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="shahzaman3 trophy" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaman3&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br />
@@ -41,7 +39,7 @@
     </tr>
   </table>
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Stats" />
 </div>
 
 <br />
