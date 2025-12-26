@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <h3>⚡ Tech Stack & Tools</h3>
+  <h3>⚡ Tech Stacks & Tools</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,mongodb,python,java,git,github,vscode,figma&perline=8&theme=dark" />
 </div>
 
