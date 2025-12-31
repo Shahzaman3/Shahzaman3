@@ -48,7 +48,7 @@
 <br />
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=Shahzaman3&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
