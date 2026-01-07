@@ -18,17 +18,7 @@
 
 <div align="center">
   <h3>📊 GitHub Statistics</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Shahzaman3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" alt="Shahzaman3's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaman3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br />
+
   <img src="https://github-readme-streak-stats-flax.vercel.app/?user=Shahzaman3&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Stats" />
 </div>
 
@@ -39,6 +29,29 @@
 </div>
 
 <br />
+
+# 📈 Profile Summary Charts  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahzaman3&theme=radical" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahzaman3&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahzaman3&theme=radical" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahzaman3&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahzaman3&theme=radical" />
+</p>
+
+---
+
+# 🧪 Currently Working On  
+- Next.js + GSAP advanced animations  
+- Reusable Tailwind components  
+- Framer Motion micro-interactions  
+- Secure MERN APIs  
+- My animated portfolio website  
+
+---
 
 <div align="center">
   
