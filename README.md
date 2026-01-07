@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Md+Shahzaman+Faisal+👋;Building+the+Future+of+Web+Development+🚀;ReactJS+%7C+NextJS+%7C+Three.js+%7C+AI;Turning+Ideas+into+Digital+Reality+✨" alt="Typing SVG" />
+<!-- Custom Web3 Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=200&section=header&text=Shahzaman%20Faisal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20web%20with%20Developer&descAlignY=55&descSize=18" />
+</div>
+<div align="center">
+<!-- Typing Animation -->
+
 </div>
 
 <br />
