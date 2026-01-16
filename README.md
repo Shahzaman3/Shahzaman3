@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Custom Web3 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=200&section=header&text=Shahzaman%20Faisal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20web%20with%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=200&section=header&text=Shahzaman%20Faisal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20web%20Developer&descAlignY=55&descSize=18" />
 </div>
 <div align="center">
 <!-- Typing Animation -->
